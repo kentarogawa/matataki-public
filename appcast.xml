@@ -3,9 +3,9 @@
     <channel>
         <title>Matataki Changelog</title>
         <item>
-            <title>Version 1.1.1</title>
-            <pubDate>Mon, 22 Dec 2025 13:30:00 +0900</pubDate> <sparkle:version>1.1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>Version 1.1.2</title>
+            <pubDate>Mon, 22 Dec 2025 13:30:00 +0900</pubDate> <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <description><![CDATA[
                 <h2>変更点</h2>
                 <ul>
@@ -13,9 +13,9 @@
                 </ul>
             ]]></description>
             <enclosure 
-                url="https://github.com/kentarogawa/matataki-public/releases/download/v1.1.1/Matataki.zip"
-                sparkle:edSignature="W2cbMpZGLGwIcOOgxUNKpi4K1h3upwQaZxN8x0Y06XzWsLZT1XGKPGevK8brUwVvPG41o8JfbmFzpM+r5yhSBA=="
-                length="6772851"
+                url="https://github.com/kentarogawa/matataki-public/releases/download/v1.1.2/Matataki.zip"
+                sparkle:edSignature="xM7CLfRWXtc0x3e8ccRgOUShEBzYmyZGb/3dqtZlKV6/pIjykY/E2/bpM0hcK5o2pSZyZgqSq5XzV743uteiCw=="
+                length="6772861"
                 type="application/octet-stream" />
         </item>
     </channel>
