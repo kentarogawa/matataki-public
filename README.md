@@ -5,8 +5,8 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Platform">
-  <img src="https://img.shields.io/github/v/release/YOUR_GITHUB_ID/Matataki-Public?style=for-the-badge&label=Latest%20Ver" alt="Release">
-  <img src="https://img.shields.io/github/downloads/YOUR_GITHUB_ID/Matataki-Public/total?style=for-the-badge&color=orange" alt="Downloads">
+  <img src="https://img.shields.io/github/v/release/kentarogawa/matataki-public?style=for-the-badge&label=Latest%20Ver" alt="Release">
+  <img src="https://img.shields.io/github/downloads/kentarogawa/matataki-public/total?style=for-the-badge&color=orange" alt="Downloads">
 </p>
 
 <p align="center">
