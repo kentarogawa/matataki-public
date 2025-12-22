@@ -77,7 +77,7 @@ Windowsで愛用された「SETUNA」のような使用感を、現代のmacOS�
 **Matataki** is freeware.
 本アプリは無料で使用できますが、再配布や販売、リバースエンジニアリングは禁止します。
 
-Copyright © 2025 YourName. All rights reserved.
+Copyright © 2025 kentarogawa. All rights reserved.
 
 ---
 
