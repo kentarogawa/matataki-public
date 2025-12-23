@@ -4,7 +4,7 @@
   <img src="docs/icon.png" alt="Matataki Icon" width="128">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/Requires-macOS%2014.6%2B-000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Requires macOS 14.6+">
   <img src="https://img.shields.io/github/v/release/kentarogawa/matataki-public?style=for-the-badge&label=Latest%20Ver" alt="Release">
   <img src="https://img.shields.io/github/downloads/kentarogawa/matataki-public/total?style=for-the-badge&color=orange" alt="Downloads">
 </p>
@@ -24,6 +24,10 @@
 ## 📖 概要 (Overview)
 
 **Matataki** は、画面の一部を切り取り、デスクトップの最前面に「付箋」のように固定表示できるユーティリティアプリです。
+
+* **対応OS:** macOS 14.6 (Sonoma) 以降
+* **対応チップ:** Apple Silicon (M1/M2/M3) & Intel
+
 
 Windowsで愛用された「SETUNA」のような使用感を、現代のmacOSネイティブな技術（Swift & TCA）で再現・進化させました。
 デザインの参考、コードの模写、情報の比較など、あらゆる作業の効率を劇的に向上させます。
