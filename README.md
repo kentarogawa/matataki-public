@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/demo_01.png" alt="Matataki Usage Screenshot" width="700">
+  <img src="docs/demo.gif" alt="Matataki Usage Screenshot" width="700">
 </p>
 
 <p align="center">
