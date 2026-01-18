@@ -3,19 +3,19 @@
     <channel>
         <title>Matataki Changelog</title>
         <item>
-            <title>Version 1.1.7</title>
-            <pubDate>Sun, 18 Jan 2026 12:00:00 +0900</pubDate> <sparkle:version>1.1.7</sparkle:version>
-            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <title>Version 1.1.6</title>
+            <pubDate>Wed, 24 Dec 2025 12:00:00 +0900</pubDate> <sparkle:version>1.1.6</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <description><![CDATA[
                 <h2>変更点</h2>
                 <ul>
-                    <li>内部処理を改善しました</li>
+                    <li>キャプチャの拡大縮小とキャプチャ外枠の線と色を設定できるようにしました</li>
                 </ul>
             ]]></description>
             <enclosure 
-                url="https://github.com/kentarogawa/matataki-public/releases/download/v1.1.7/Matataki.zip"
-                sparkle:edSignature="H8Ic5bSsfc51yZyYcWXAMelUJlTfM3P2mSi38lcxHgSbHryreLPYfytYtTN5PhP0sspOoBVSnPfkP+lpzWnBBw=="
-                length="6847338"
+                url="https://github.com/kentarogawa/matataki-public/releases/download/v1.1.6/Matataki.zip"
+                sparkle:edSignature="X6tNZrqfuAdAE79orput3EFlA8rOhmTSlcS/ULl8hLKLQsFB2ze+VPQ/CrbulMhfPuJyK3dV4l6YBZ3xxCMsDQ=="
+                length="6823303"
                 type="application/octet-stream" />
         </item>
     </channel>
